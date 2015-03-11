@@ -1,5 +1,0 @@
-#This program is used to monitor the Citrix Xenapp WriteCache Disk.
-#If disk usage morethan 90%,it send a email to me.
-#Create on 2015/02/27
-#Author: lioncui
-#Think you !
